@@ -1,0 +1,227 @@
+<div class="item-container">
+    <!--product image-->
+    <a class="item-img"
+       href="https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448">
+        <div class="item-badges">
+        </div>
+        <img alt="EVGA GeForce GTX 1660 SC ULTRA GAMING, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan, Metal Backplate"
+             class="lazy-img" data-effect="fadeIn"
+             data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-487-448-V01.jpg"
+             src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif"
+             title="EVGA GeForce GTX 1660 SC ULTRA GAMING, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan, Metal Backplate">
+        </img></a>
+    <div class="item-info">
+        <!--brand info-->
+        <div class="item-branding">
+            <a class="item-brand" href="https://www.newegg.com/EVGA/BrandStore/ID-1402">
+                <img alt="EVGA" class="lazy-img" data-effect="fadeIn"
+                     data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1402.gif"
+                     src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="EVGA">
+                </img></a>
+            <!--rating info-->
+            <a class="item-rating"
+               href="https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo"
+               title="Rating + 5"><i class="rating rating-5"></i><span class="item-rating-num">(30)</span></a>
+        </div>
+        <!--description info-->
+        <a class="item-title"
+           href="https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448"
+           title="View Details">EVGA GeForce GTX 1660 SC ULTRA GAMING, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan, Metal
+            Backplate</a>
+        <!--promption info-->
+        <p class="item-promo"><i class="item-promo-icon"></i>+ $20 off w/ promo code VGAPCJY354, limited offer</p>
+        <!--feature-->
+        <ul class="item-features">
+            <li><strong>Max Resolution:</strong> 7680 x 4320</li>
+            <li><strong>DisplayPort:</strong> 1 x DisplayPort 1.4</li>
+            <li><strong>DVI:</strong> 1 x Dual-Link DVI-D</li>
+            <li><strong>HDMI:</strong> 1 x HDMI 2.0b</li>
+            <li><strong>Model #: </strong>06G-P4-1067-KR</li>
+            <li><strong>Item #: </strong>N82E16814487448</li>
+        </ul>
+        <div class="item-action">
+            <!--price-->
+            <ul class="price">
+                <li class="price-was">
+                </li>
+                <li class="price-map">
+                </li>
+                <li class="price-current">
+<span class="price-current-label">
+</span>$<strong>239</strong><sup>.99</sup> <a class="price-current-num"
+                                              href="https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448&amp;buyingoptions=New">(15
+                    Offers)</a>
+                    <span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+                </li>
+                <li class="price-save">
+                    <span class="price-save-endtime price-save-endtime-current"></span>
+                    <span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+                </li>
+                <li class="price-note">
+                    <span class="price-note-dollar" data-price="$229.99">$229.99</span>
+                    <span class="price-note-label"> after </span>
+                    <span class="price-note-dollar">$10.00</span>
+                    <span class="price-note-label"> rebate card</span>
+                </li>
+                <li class="price-ship">
+                    Free Shipping
+                </li>
+            </ul>
+            <!--egg point-->
+            <!--financing-->
+            <!--button-->
+            <div class="item-operate hidden-action-button">
+                <div class="item-button-area">
+                    <button class="btn btn-mini"
+                            onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448');"
+                            title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+                    </button>
+                </div>
+                <!--compare-->
+                <div class="item-compare-box">
+                    <label class="form-checkbox">
+                        <input autocomplete="off" name="CompareItem" neg-itemnumber="14-487-448" type="checkbox"
+                               value="CompareItem_14-487-448"/>
+                        <span class="form-checkbox-title">Compare</span>
+                    </label>
+                </div>
+                <script type="text/javascript">
+
+                                Biz.Product.CompareConfig2019.compareItems.push("14-487-448");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-487-448";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-487-448-V01.jpg";
+                                itemThumbs.description = "EVGA GeForce GTX 1660 SC ULTRA GAMING, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan, Metal Backplate";
+                                itemThumbs.productUrl = "/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+
+
+
+                </script>
+            </div>
+            <!--ExtendWarranty PopUp-->
+            <input class="open-popup" id="ew_N82E16814487448" type="hidden">
+            <input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814487448" type="hidden"/>
+            </input></div>
+    </div>
+    <div class="item-stock" id="stock_14-487-448">
+    </div>
+</div>
+
+
+<div class="item-container">
+    <!--product image-->
+    <a class="item-img"
+       href="https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448">
+        <div class="item-badges">
+        </div>
+        <img alt="EVGA GeForce GTX 1660 SC ULTRA GAMING, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan, Metal Backplate"
+             class="lazy-img" data-effect="fadeIn"
+             data-src="//c1.neweggimages.com/NeweggImage/ProductImageCompressAll300/14-487-448-V01.jpg"
+             src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif"
+             title="EVGA GeForce GTX 1660 SC ULTRA GAMING, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan, Metal Backplate">
+        </img></a>
+    <div class="item-info">
+        <!--brand info-->
+        <div class="item-branding">
+            <a class="item-brand" href="https://www.newegg.com/EVGA/BrandStore/ID-1402">
+                <img alt="EVGA" class="lazy-img" data-effect="fadeIn"
+                     data-src="//c1.neweggimages.com/Brandimage_70x28//Brand1402.gif"
+                     src="//c1.neweggimages.com/WebResource/Themes/2005/Nest/blank.gif" title="EVGA">
+                </img></a>
+            <!--rating info-->
+            <a class="item-rating"
+               href="https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448&amp;SortField=0&amp;SummaryType=0&amp;PageSize=10&amp;SelectedRating=-1&amp;VideoOnlyMark=False&amp;IsFeedbackTab=true#scrollFullInfo"
+               title="Rating + 5"><i class="rating rating-5"></i><span class="item-rating-num">(30)</span></a>
+        </div>
+        <!--description info-->
+        <a class="item-title"
+           href="https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448"
+           title="View Details">EVGA GeForce GTX 1660 SC ULTRA GAMING, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan, Metal
+            Backplate</a>
+        <!--promption info-->
+        <p class="item-promo"><i class="item-promo-icon"></i>+ $20 off w/ promo code VGAPCJY354, limited offer</p>
+        <!--feature-->
+        <ul class="item-features">
+            <li><strong>Max Resolution:</strong> 7680 x 4320</li>
+            <li><strong>DisplayPort:</strong> 1 x DisplayPort 1.4</li>
+            <li><strong>DVI:</strong> 1 x Dual-Link DVI-D</li>
+            <li><strong>HDMI:</strong> 1 x HDMI 2.0b</li>
+            <li><strong>Model #: </strong>06G-P4-1067-KR</li>
+            <li><strong>Item #: </strong>N82E16814487448</li>
+        </ul>
+        <div class="item-action">
+            <!--price-->
+            <ul class="price">
+                <li class="price-was">
+                </li>
+                <li class="price-map">
+                </li>
+                <li class="price-current">
+<span class="price-current-label">
+</span>$<strong>239</strong><sup>.99</sup> <a class="price-current-num"
+                                              href="https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448&amp;buyingoptions=New">(15
+                    Offers)</a>
+                    <span class="price-current-range">
+<abbr title="to">–</abbr>
+</span>
+                </li>
+                <li class="price-save">
+                    <span class="price-save-endtime price-save-endtime-current"></span>
+                    <span class="price-save-endtime price-save-endtime-another" style="display:none;"></span>
+                </li>
+                <li class="price-note">
+                    <span class="price-note-dollar" data-price="$229.99">$229.99</span>
+                    <span class="price-note-label"> after </span>
+                    <span class="price-note-dollar">$10.00</span>
+                    <span class="price-note-label"> rebate card</span>
+                </li>
+                <li class="price-ship">
+                    Free Shipping
+                </li>
+            </ul>
+            <!--egg point-->
+            <!--financing-->
+            <!--button-->
+            <div class="item-operate hidden-action-button">
+                <div class="item-button-area">
+                    <button class="btn btn-mini"
+                            onclick="Javascript:Biz.ProductList.Item.add('https://www.newegg.com/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448');"
+                            title="View Details" type="button">View Details <i class="fa fa-caret-right"></i>
+                    </button>
+                </div>
+                <!--compare-->
+                <div class="item-compare-box">
+                    <label class="form-checkbox">
+                        <input autocomplete="off" name="CompareItem" neg-itemnumber="14-487-448" type="checkbox"
+                               value="CompareItem_14-487-448"/>
+                        <span class="form-checkbox-title">Compare</span>
+                    </label>
+                </div>
+                <script type="text/javascript">
+
+                                Biz.Product.CompareConfig2019.compareItems.push("14-487-448");
+                                var itemThumbs = new Object();
+                                itemThumbs.subCategoryId = 48;
+                                itemThumbs.subCategoryDescription = "Desktop Graphics Cards";
+                                itemThumbs.itemNumber = "14-487-448";
+                                itemThumbs.imageUrl = "//c1.neweggimages.com/ProductImageCompressAll35/14-487-448-V01.jpg";
+                                itemThumbs.description = "EVGA GeForce GTX 1660 SC ULTRA GAMING, 06G-P4-1067-KR, 6GB GDDR5, Dual Fan, Metal Backplate";
+                                itemThumbs.productUrl = "/evga-geforce-gtx-1660-06g-p4-1067-kr/p/N82E16814487448?Item=N82E16814487448";
+                                Biz.Product.CompareConfig2019.Thumbs.push(itemThumbs);
+
+
+                </script>
+            </div>
+            <!--ExtendWarranty PopUp-->
+            <input class="open-popup" id="ew_N82E16814487448" type="hidden">
+            <input class="open-popup" id="ew_MainItemFailedAddToCart_N82E16814487448" type="hidden"/>
+            </input></div>
+    </div>
+    <div class="item-stock" id="stock_14-487-448">
+    </div>
+</div>
