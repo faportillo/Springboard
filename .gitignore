@@ -1,0 +1,7 @@
+*/UCF101/*
+*/UCF101_frames/*
+*.avi
+*.jpg
+*.json
+*ipynb_checkpoints*
+*/.idea/*
